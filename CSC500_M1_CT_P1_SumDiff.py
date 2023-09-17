@@ -1,0 +1,6 @@
+print('\nYou will be prompted to enter two numbers whose sum and difference will be calculated.')
+num1 = int(input('\nEnter the first number:\n'))
+num2 = int(input('\nEnter the second number:\n'))
+print()
+print(num1,'+',num2,'=',num1 + num2)
+print(num1,'-',num2,'=',num1 - num2)
